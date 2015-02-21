@@ -1,0 +1,166 @@
+Sat Jan 17 14:31:22 EST 2015|null
+Sat Jan 17 14:31:22 EST 2015|SELECT * FROM account WHERE balance > 1000000
+Sat Jan 17 14:31:23 EST 2015|null
+Sat Jan 17 14:31:23 EST 2015|SELECT * FROM account WHERE balance > 1000000
+Sat Jan 17 14:31:24 EST 2015|null
+Sat Jan 17 14:31:25 EST 2015|SELECT * FROM account WHERE balance > 1000000
+Sat Jan 17 14:31:39 EST 2015|null
+Sat Jan 17 14:31:39 EST 2015|SELECT * FROM customer
+Sat Jan 17 14:31:40 EST 2015|null
+Sat Jan 17 14:31:40 EST 2015|SELECT * FROM customer
+Sat Jan 17 14:31:41 EST 2015|null
+Sat Jan 17 14:31:41 EST 2015|SELECT * FROM customer
+Sat Jan 17 14:31:42 EST 2015|null
+Sat Jan 17 14:31:42 EST 2015|SELECT * FROM customer
+Sat Jan 17 14:31:55 EST 2015|null
+Sat Jan 17 14:31:55 EST 2015|SELECT * FROM customer
+Sat Jan 17 14:32:23 EST 2015|null
+Sat Jan 17 14:32:23 EST 2015|SELECT * FROM customer
+Sat Jan 17 14:32:33 EST 2015|null
+Sat Jan 17 14:32:33 EST 2015|SELECT * FROM customer
+Sat Jan 17 14:32:33 EST 2015|null
+Sat Jan 17 14:32:33 EST 2015|SELECT * FROM customer
+Sat Jan 17 14:32:35 EST 2015|null
+Sat Jan 17 14:32:35 EST 2015|SELECT * FROM customer
+Sat Jan 17 14:32:37 EST 2015|null
+Sat Jan 17 14:32:37 EST 2015|SELECT * FROM customer
+Sat Jan 17 14:32:37 EST 2015|null
+Sat Jan 17 14:32:37 EST 2015|SELECT * FROM customer
+Sat Jan 17 16:07:43 EST 2015|Can not issue data manipulation statements with executeQuery().
+Sat Jan 17 16:07:43 EST 2015|INSERT INTO customer(customerID,lastName,firstName,ssn,loginName,pin)VALUES (MD5('fuck'),'Smith','Jim','223-42-5523','jsmith','1234')
+Sat Jan 17 17:56:03 EST 2015|Can not issue data manipulation statements with executeQuery().
+Sat Jan 17 17:56:03 EST 2015|INSERT INTO customer(customerID,lastName,firstName,ssn,streetAddress, city, state, zip, loginName,pin)VALUES (MD5('west'),'Lyman','Josh','223-42-5523','1112 Pennsylvania Avenue', 'Washington D.C', 'D.C','10032','jlyman','1234')
+Sat Jan 17 17:57:04 EST 2015|Can not issue data manipulation statements with executeQuery().
+Sat Jan 17 17:57:04 EST 2015|INSERT INTO customer(customerID,lastName,firstName,ssn,streetAddress, city, state, zip, loginName,pin)VALUES ('Lyman','Josh','223-42-5523','1112 Pennsylvania Avenue', 'Washington D.C', 'D.C','10032','jlyman','1234')
+Sat Jan 17 17:57:14 EST 2015|Can not issue data manipulation statements with executeQuery().
+Sat Jan 17 17:57:14 EST 2015|INSERT INTO customer(customerID,lastName,firstName,ssn,streetAddress, city, state, zip, loginName,pin)VALUES ('123212312312','Lyman','Josh','223-42-5523','1112 Pennsylvania Avenue', 'Washington D.C', 'D.C','10032','jlyman','1234')
+Sat Jan 17 17:58:17 EST 2015|Can not issue data manipulation statements with executeQuery().
+Sat Jan 17 17:58:17 EST 2015|INSERT INTO customer(customerID,lastName,firstName,ssn,streetAddress, city, state, zip, loginName,pin)VALUES ('123212312312','Lyman','Josh','223-42-5523','1112 Pennsylvania Avenue', 'Washington D.C', 'D.C','10032','jlyman','1234')
+Sat Jan 17 17:58:34 EST 2015|Can not issue data manipulation statements with executeQuery().
+Sat Jan 17 17:58:34 EST 2015|INSERT INTO customer(customerID,lastName,firstName,ssn,streetAddress, city, state, zip, loginName,pin)VALUES ('123212312312','Lyman','Josh','223-42-5523','1112 Pennsylvania Avenue', 'Washington D.C', 'D.C','10032','jlyman',1234)
+Sat Jan 17 18:20:30 EST 2015|Can not issue data manipulation statements with executeQuery().
+Sat Jan 17 18:20:30 EST 2015|INSERT INTO customer(lastName,firstName,ssn,loginName,pin) VALUES('Lu','Yao','299-33-2443','yal73',1234) 
+Sat Jan 17 18:21:13 EST 2015|Can not issue data manipulation statements with executeQuery().
+Sat Jan 17 18:21:13 EST 2015|INSERT INTO customer(lastName,firstName,ssn,loginName,pin) VALUES ('Lu','Yao','299-33-2443','yal73',1234) 
+Sat Jan 17 18:22:00 EST 2015|Can not issue data manipulation statements with executeQuery().
+Sat Jan 17 18:22:00 EST 2015|INSERT INTO customer(lastName,firstName,ssn,loginName,pin) VALUES ('Lu','Yao','299-33-2443','yal73','1234'); 
+Sat Jan 17 18:22:15 EST 2015|Can not issue data manipulation statements with executeQuery().
+Sat Jan 17 18:22:15 EST 2015|INSERT INTO customer(lastName,firstName,ssn,loginName,pin) VALUES ('Lu','Yao','299-33-2443','yal73',1324) 
+Sat Jan 31 14:13:14 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 14:13:14 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 14:13:17 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 14:13:17 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 14:17:11 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 14:17:11 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 14:20:51 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 14:20:51 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 14:41:52 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 14:41:52 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 14:59:30 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 14:59:30 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:03:11 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:03:11 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:03:12 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:03:12 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:03:14 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:03:14 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:03:14 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:03:14 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:03:14 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:03:14 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:03:14 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:03:14 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:07:04 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:07:04 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:07:30 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:07:30 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:11:11 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:11:11 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:16:41 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:16:41 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:17:44 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:17:44 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:20:01 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:20:01 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:21:41 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:21:41 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 15:21:54 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 15:21:54 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 16:02:29 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 16:02:29 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 16:02:30 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 16:02:30 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 16:03:42 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 16:03:42 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 16:03:43 EST 2015|SELECT command denied to user 'yal73'@'150.212.51.210' for table 'account'
+Sat Jan 31 16:03:43 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 18:26:29 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 18:26:29 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 19:52:27 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 19:52:27 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 19:52:36 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 19:52:36 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 19:52:37 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 19:52:37 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 20:18:06 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 20:18:06 EST 2015|SELECT * FROM bank1017.account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1d'
+Sat Jan 31 20:21:02 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 20:21:02 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 20:21:16 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 20:21:16 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 20:22:09 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 20:22:09 EST 2015|SELECT * FROM bank1017.account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1d'
+Sat Jan 31 20:23:46 EST 2015|Can not issue SELECT via executeUpdate().
+Sat Jan 31 20:23:46 EST 2015|SELECT * FROM account;
+Sat Jan 31 20:24:57 EST 2015|Can not issue SELECT via executeUpdate().
+Sat Jan 31 20:24:57 EST 2015|SELECT * FROM account;
+Sat Jan 31 20:25:18 EST 2015|Can not issue SELECT via executeUpdate().
+Sat Jan 31 20:25:18 EST 2015|SELECT * FROM account;
+Sat Jan 31 20:33:40 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 20:33:40 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 20:39:17 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 20:39:17 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 20:41:23 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 20:41:23 EST 2015|SELECT * FROM bank1017.account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1'
+Sat Jan 31 20:41:45 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 20:41:45 EST 2015|SELECT * FROM bank1017.account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1'
+Sat Jan 31 21:10:06 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 21:10:06 EST 2015|SELECT * FROM bank1017.account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1'
+Sat Jan 31 22:04:55 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 22:04:55 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 22:07:30 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 22:07:30 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Sat Jan 31 22:33:09 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ''' at line 1
+Sat Jan 31 22:33:09 EST 2015|SELECT * FROM customerWHERE customerID = ''
+Sat Jan 31 22:34:01 EST 2015|Table 'yal73_bank1017.acccount' doesn't exist
+Sat Jan 31 22:34:01 EST 2015|SELECT accountID FROM acccount;
+Sat Jan 31 22:41:19 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 22:41:19 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '0f5ace3e-5d42-11e3-94ef-97beef767f1d'
+Sat Jan 31 22:44:59 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 22:44:59 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '0f5ace3e-5d42-11e3-94ef-97beef767f1d'
+Sat Jan 31 22:55:43 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 22:55:43 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '0f5ace3e-5d42-11e3-94ef-97beef767f1d'
+Sat Jan 31 22:58:05 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sat Jan 31 22:58:05 EST 2015|SELECT * FROM customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sat Jan 31 22:58:35 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sat Jan 31 22:58:35 EST 2015|SELECT * FROM customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sat Jan 31 22:59:03 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sat Jan 31 22:59:03 EST 2015|SELECT * FROM customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sat Jan 31 22:59:52 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sat Jan 31 22:59:52 EST 2015|SELECT * FROM customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sat Jan 31 23:04:34 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sat Jan 31 23:04:34 EST 2015|SELECT * FROM customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sat Jan 31 23:05:10 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sat Jan 31 23:05:10 EST 2015|SELECT * FROM customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sat Jan 31 23:16:09 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 23:16:09 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sat Jan 31 23:20:10 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 23:20:10 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sat Jan 31 23:22:15 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 23:22:15 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sat Jan 31 23:29:00 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sat Jan 31 23:29:00 EST 2015|SELECT * FROM customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sat Jan 31 23:29:15 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sat Jan 31 23:29:15 EST 2015|SELECT * FROM customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sat Jan 31 23:31:42 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sat Jan 31 23:31:42 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '0f5ace3e-5d42-11e3-94ef-97beef767f1d'

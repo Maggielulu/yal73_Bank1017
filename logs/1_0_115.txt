@@ -1,0 +1,56 @@
+Sun Feb 01 00:03:00 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sun Feb 01 00:03:00 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '0f5ace3e-5d42-11e3-94ef-97beef767f1d'
+Sun Feb 01 00:24:11 EST 2015|SELECT command denied to user 'yal73'@'pool-71-112-208-152.pitbpa.fios.verizon.net' for table 'account'
+Sun Feb 01 00:24:11 EST 2015|SELECT * FROM bank1017.account WHERE accountID = 'eff30178-5d42-11e3-94ef-97beef767f1d'
+Sun Feb 01 00:36:53 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 00:36:53 EST 2015|SELECT * FROM customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 00:37:25 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 00:37:25 EST 2015|SELECT * FROM yal73_bank1017.customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 00:38:52 EST 2015|Table 'yal73_bank1017.acccount' doesn't exist
+Sun Feb 01 00:38:52 EST 2015|SELECT accountID FROM acccount;
+Sun Feb 01 01:41:47 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 01:41:47 EST 2015|SELECT * FROM yal73_bank1017.customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 02:01:10 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 02:01:10 EST 2015|SELECT * FROM customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 03:33:50 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 03:33:50 EST 2015|SELECT * FROM yal73_bank1017.customerWHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 03:34:16 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '527ed216-5d40-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 03:34:16 EST 2015|SELECT * FROM yal73_bank1017.customerWHERE customerID = '527ed216-5d40-11e3-94ef-97beef767f1d'
+Sun Feb 01 03:36:39 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '527ed216-5d40-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 03:36:39 EST 2015|SELECT * FROM yal73_bank1017.customerWHERE customerID = '527ed216-5d40-11e3-94ef-97beef767f1d'
+Sun Feb 01 03:48:01 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '527ed216-5d40-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 03:48:01 EST 2015|SELECT * FROM yal73_bank1017.customerWHERE customerID = '527ed216-5d40-11e3-94ef-97beef767f1d'
+Sun Feb 01 03:51:36 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '527ed216-5d40-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 03:51:36 EST 2015|SELECT * FROM yal73_bank1017.customerWHERE customerID = '527ed216-5d40-11e3-94ef-97beef767f1d'
+Sun Feb 01 03:54:24 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '527ed216-5d40-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 03:54:24 EST 2015|SELECT * FROM yal73_bank1017.customerWHERE customerID = '527ed216-5d40-11e3-94ef-97beef767f1d'
+Sun Feb 01 03:57:38 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '16c5da2a-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 03:57:38 EST 2015|SELECT * FROM yal73_bank1017.customerWHERE customerID = '16c5da2a-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 04:05:21 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '16c5da2a-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 04:05:21 EST 2015|SELECT * FROM yal73_bank1017.customerWHERE customerID = '16c5da2a-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 08:42:50 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '16c5da2a-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 08:42:50 EST 2015|SELECT * FROM yal73_bank1017.customerWHERE customerID = '16c5da2a-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 09:05:58 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '16c5da2a-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 09:05:58 EST 2015|SELECT * FROM customerWHERE customerID = '16c5da2a-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 09:11:17 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '16c5da2a-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 09:11:17 EST 2015|SELECT * FROM customerWHERE customerID = '16c5da2a-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 09:13:12 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '16c5da2a-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 09:13:12 EST 2015|SELECT * FROM customerWHERE customerID = '16c5da2a-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 12:02:40 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '16c5da2a-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 12:02:40 EST 2015|SELECT * FROM customerWHERE customerID = '16c5da2a-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 12:04:45 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '16c5da2a-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 12:04:45 EST 2015|SELECT * FROM customerWHERE customerID = '16c5da2a-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 12:04:58 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '16c5da2a-5d41-11e3-94ef-97beef767f1d'' at line 1
+Sun Feb 01 12:04:58 EST 2015|SELECT * FROM customerWHERE customerID = '16c5da2a-5d41-11e3-94ef-97beef767f1d'
+Sun Feb 01 15:08:55 EST 2015|null
+Sun Feb 01 15:08:55 EST 2015|SELECT * FROM account;
+Sun Feb 01 16:02:52 EST 2015|null
+Sun Feb 01 16:02:52 EST 2015|SELECT accountID FROM account;
+Sun Feb 01 17:09:46 EST 2015|null
+Sun Feb 01 17:09:46 EST 2015|SELECT accountID from account WHERE accountId = 'edu.pitt.bank.Account@6979e8cb'
+Sun Feb 01 17:11:50 EST 2015|null
+Sun Feb 01 17:11:50 EST 2015|SELECT accountID from account WHERE accountId = '3e8a08fa-5d42-11e3-94ef-97beef767f1d'
+Sun Feb 01 17:14:26 EST 2015|null
+Sun Feb 01 17:14:26 EST 2015|SELECT accountID from account WHERE accountId = '537b0458-5d42-11e3-94ef-97beef767f1d'
+Sun Feb 01 17:16:50 EST 2015|null
+Sun Feb 01 17:16:50 EST 2015|SELECT accountID from account WHERE accountID = '537b0458-5d42-11e3-94ef-97beef767f1d'

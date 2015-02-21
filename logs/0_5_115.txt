@@ -1,0 +1,4 @@
+Fri Jan 16 14:29:01 EST 2015|Table 'yal73_bank1017.Account' doesn't exist
+Fri Jan 16 14:29:01 EST 2015|SELECT * FROM Account
+Fri Jan 16 14:30:32 EST 2015|Table 'yal73_bank1017.Account' doesn't exist
+Fri Jan 16 14:30:32 EST 2015|SELECT * FROM Account

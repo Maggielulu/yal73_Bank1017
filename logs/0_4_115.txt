@@ -1,0 +1,6 @@
+Thu Jan 22 20:12:30 EST 2015|Invalid number
+Thu Jan 22 20:12:30 EST 2015|For input string: "r"
+Thu Jan 29 15:18:40 EST 2015|Invalid number
+Thu Jan 29 15:18:40 EST 2015|null
+Thu Jan 29 15:19:56 EST 2015|Invalid number
+Thu Jan 29 15:19:56 EST 2015|For input string: ""

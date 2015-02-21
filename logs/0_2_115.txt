@@ -1,0 +1,6 @@
+Tue Jan 20 19:16:45 EST 2015|Can not issue data manipulation statements with executeQuery().
+Tue Jan 20 19:16:45 EST 2015|INSERT INTO customer(lastName,firstName,ssn,loginName,pin) VALUES ('Lu','Yao','299-33-2443','yal73',1324) 
+Tue Jan 20 19:17:21 EST 2015|Can not issue data manipulation statements with executeQuery().
+Tue Jan 20 19:17:21 EST 2015|INSERT INTO customer(lastName,firstName,ssn,loginName,pin) VALUES ('Lu','Yao','299-33-2443','yal73',1324) 
+Tue Jan 20 19:17:38 EST 2015|Can not issue data manipulation statements with executeQuery().
+Tue Jan 20 19:17:38 EST 2015|INSERT INTO customer(lastName,firstName,ssn,loginName,pin) VALUES ('Lu','Yao','299-33-2443','yal73',1324) 
